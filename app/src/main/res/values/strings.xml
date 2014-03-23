@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wearable sdk with AppEngine</string>
+    <string name="main_tip">Para poder ver el menú en el wearable has de tener \n un dispositivo conectado o bién un emulador </string>
+    <string name="button_text">Mostrar menú en el wearable</string>
+
+    <string-array name="titulos">
+        <item>Wearables…</item>
+        <item>A.S y GAE</item>
+        <item>1, Request</item>
+    </string-array>
+
+    <string-array name="descs">
+        <item>Dedicado a las las comunidades de desarrollo de google, GDG\'s</item>
+        <item>Este ejemplo ilustra el uso básico del \'wear sdk preview\' también se hace uso de los \'Google Cloud Endpoints\' con AppEngine.</item>
+        <item>Empezemos con una sencilla peticion.</item>
+    </string-array>
+
+</resources>
